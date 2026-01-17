@@ -42,7 +42,8 @@ Security : 学内CTF問題作成 (XSS, SQLi, ARP偽装, SPN暗号)
 Web      : Flask + MySQL + Jinja2 + Vanilla JS / PWA構想
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tachi-Shin&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tachi-Shin&show_icons=true)
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
