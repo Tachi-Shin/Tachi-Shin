@@ -43,7 +43,7 @@ Web      : Flask + MySQL + Jinja2 + Vanilla JS / PWA構想
 ```
 
 
-[![T.Shingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tachi-Shin)](https://github.com/anuraghazra/github-readme-stats)
+[![T.Shingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tachi-Shin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
